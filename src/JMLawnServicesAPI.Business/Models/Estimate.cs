@@ -1,8 +1,10 @@
 using System;
 using System.Collections.Generic;
 using DAO = JMLawnServicesAPI.Data;
+using JMLawnServicesAPI.Data.Entities;
+using JMLawnServicesAPI.Business.Models;
 
-namespace JMLawnServicesAPI.Business
+namespace JMLawnServicesAPI.Business.Models
 {
     public class Estimate
     {
@@ -21,8 +23,8 @@ namespace JMLawnServicesAPI.Business
         public int AreaInSquareFeet { get; set; }
 
         //toDAO
-        public static DAO.Estimate toDAO(Estimate dto){
-            var dao = new DAO.Estimate();
+        public static DAO.Entities.Estimate toDAO(Estimate dto){
+            var dao = new DAO.Entities.Estimate();
             dao.ID = dto.ID;
             dao.FirstName = dto.FirstName;
             dao.LastName = dto.LastName;
@@ -40,7 +42,7 @@ namespace JMLawnServicesAPI.Business
         }
 
                 //fromDAO
-        public static Estimate fromDAO(DAO.Estimate dao){
+        public static Estimate fromDAO(DAO.Entities.Estimate dao){
             var dto = new Estimate();
             dto.ID = dao.ID;
             dto.FirstName = dao.FirstName;

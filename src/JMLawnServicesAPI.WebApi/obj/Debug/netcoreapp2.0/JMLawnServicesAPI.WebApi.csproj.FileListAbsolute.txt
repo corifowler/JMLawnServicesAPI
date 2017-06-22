@@ -10,15 +10,3 @@ C:\Users\John Monarchik\Desktop\Projects\JMLawnServicesAPI\JMLawnServicesAPI.Web
 C:\Users\John Monarchik\Desktop\Projects\JMLawnServicesAPI\JMLawnServicesAPI.WebApi\obj\Debug\netcoreapp2.0\JMLawnServicesAPI.WebApi.AssemblyInfo.cs
 C:\Users\John Monarchik\Desktop\Projects\JMLawnServicesAPI\JMLawnServicesAPI.WebApi\obj\Debug\netcoreapp2.0\JMLawnServicesAPI.WebApi.dll
 C:\Users\John Monarchik\Desktop\Projects\JMLawnServicesAPI\JMLawnServicesAPI.WebApi\obj\Debug\netcoreapp2.0\JMLawnServicesAPI.WebApi.pdb
-C:\Users\John Monarchik\Desktop\Projects\JMLawnServicesAPI\src\JMLawnServicesAPI.WebApi\bin\Debug\netcoreapp2.0\x86\e_sqlite3.dll
-C:\Users\John Monarchik\Desktop\Projects\JMLawnServicesAPI\src\JMLawnServicesAPI.WebApi\bin\Debug\netcoreapp2.0\x64\e_sqlite3.dll
-C:\Users\John Monarchik\Desktop\Projects\JMLawnServicesAPI\src\JMLawnServicesAPI.WebApi\bin\Debug\netcoreapp2.0\JMLawnServicesAPI.WebApi.deps.json
-C:\Users\John Monarchik\Desktop\Projects\JMLawnServicesAPI\src\JMLawnServicesAPI.WebApi\bin\Debug\netcoreapp2.0\JMLawnServicesAPI.WebApi.runtimeconfig.json
-C:\Users\John Monarchik\Desktop\Projects\JMLawnServicesAPI\src\JMLawnServicesAPI.WebApi\bin\Debug\netcoreapp2.0\JMLawnServicesAPI.WebApi.runtimeconfig.dev.json
-C:\Users\John Monarchik\Desktop\Projects\JMLawnServicesAPI\src\JMLawnServicesAPI.WebApi\bin\Debug\netcoreapp2.0\JMLawnServicesAPI.WebApi.dll
-C:\Users\John Monarchik\Desktop\Projects\JMLawnServicesAPI\src\JMLawnServicesAPI.WebApi\bin\Debug\netcoreapp2.0\JMLawnServicesAPI.WebApi.pdb
-C:\Users\John Monarchik\Desktop\Projects\JMLawnServicesAPI\src\JMLawnServicesAPI.WebApi\obj\Debug\netcoreapp2.0\JMLawnServicesAPI.WebApi.csproj.CoreCompileInputs.cache
-C:\Users\John Monarchik\Desktop\Projects\JMLawnServicesAPI\src\JMLawnServicesAPI.WebApi\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
-C:\Users\John Monarchik\Desktop\Projects\JMLawnServicesAPI\src\JMLawnServicesAPI.WebApi\obj\Debug\netcoreapp2.0\JMLawnServicesAPI.WebApi.AssemblyInfo.cs
-C:\Users\John Monarchik\Desktop\Projects\JMLawnServicesAPI\src\JMLawnServicesAPI.WebApi\obj\Debug\netcoreapp2.0\JMLawnServicesAPI.WebApi.dll
-C:\Users\John Monarchik\Desktop\Projects\JMLawnServicesAPI\src\JMLawnServicesAPI.WebApi\obj\Debug\netcoreapp2.0\JMLawnServicesAPI.WebApi.pdb

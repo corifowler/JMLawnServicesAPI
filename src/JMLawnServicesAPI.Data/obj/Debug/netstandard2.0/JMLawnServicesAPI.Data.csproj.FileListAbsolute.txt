@@ -1,0 +1,7 @@
+C:\Users\John Monarchik\Desktop\Projects\JMLawnServicesAPI\src\JMLawnServicesAPI.Data\bin\Debug\netstandard2.0\JMLawnServicesAPI.Data.deps.json
+C:\Users\John Monarchik\Desktop\Projects\JMLawnServicesAPI\src\JMLawnServicesAPI.Data\bin\Debug\netstandard2.0\JMLawnServicesAPI.Data.dll
+C:\Users\John Monarchik\Desktop\Projects\JMLawnServicesAPI\src\JMLawnServicesAPI.Data\bin\Debug\netstandard2.0\JMLawnServicesAPI.Data.pdb
+C:\Users\John Monarchik\Desktop\Projects\JMLawnServicesAPI\src\JMLawnServicesAPI.Data\obj\Debug\netstandard2.0\JMLawnServicesAPI.Data.csproj.CoreCompileInputs.cache
+C:\Users\John Monarchik\Desktop\Projects\JMLawnServicesAPI\src\JMLawnServicesAPI.Data\obj\Debug\netstandard2.0\JMLawnServicesAPI.Data.AssemblyInfo.cs
+C:\Users\John Monarchik\Desktop\Projects\JMLawnServicesAPI\src\JMLawnServicesAPI.Data\obj\Debug\netstandard2.0\JMLawnServicesAPI.Data.dll
+C:\Users\John Monarchik\Desktop\Projects\JMLawnServicesAPI\src\JMLawnServicesAPI.Data\obj\Debug\netstandard2.0\JMLawnServicesAPI.Data.pdb

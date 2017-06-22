@@ -6,11 +6,7 @@ using JMLawnServicesAPI.Data;
 namespace JMLawnServicesAPI.Business
 {
     public class AdminServices : IAdminServices{
-        private IRepository _repository; 
 
-        public AdminServices(IRepository repository){
-            _repository = repository;
-        }
 
         public DTO.Estimate CreateEstimate(DTO.Estimate newEstimate){
             var dao = DTO.Estimate.toDAO(newEstimate);

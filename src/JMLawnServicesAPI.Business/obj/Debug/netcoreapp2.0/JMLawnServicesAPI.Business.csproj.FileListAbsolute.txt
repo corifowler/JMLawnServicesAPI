@@ -1,0 +1,3 @@
+C:\Users\John Monarchik\Desktop\Projects\JMLawnServicesAPI\src\JMLawnServicesAPI.Business\bin\Debug\netcoreapp2.0\JMLawnServicesAPI.Business.deps.json
+C:\Users\John Monarchik\Desktop\Projects\JMLawnServicesAPI\src\JMLawnServicesAPI.Business\obj\Debug\netcoreapp2.0\JMLawnServicesAPI.Business.csproj.CoreCompileInputs.cache
+C:\Users\John Monarchik\Desktop\Projects\JMLawnServicesAPI\src\JMLawnServicesAPI.Business\obj\Debug\netcoreapp2.0\JMLawnServicesAPI.Business.AssemblyInfo.cs

@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace JMLawnServicesAPI.Data
+namespace JMLawnServicesAPI.Data.Repositories
 {
     interface IJMLawnServicesAPIRepository
     {

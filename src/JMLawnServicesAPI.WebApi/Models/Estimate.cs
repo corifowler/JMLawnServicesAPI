@@ -1,17 +1,13 @@
 using System;
 using System.Collections.Generic;
-using System.Text;
+using System.Linq;
+using System.Threading.Tasks;
+using JMLawnServicesAPI.Business.Models;
 
-namespace JMLawnServicesAPI.Data.Entities
+namespace JMLawnServicesAPI.WebApi.Models
 {
     public class Estimate
     {
-        // [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2214:DoNotCallOverridableMethodsInConstructors")]
-        // public Answer()
-        // {
-        //     this.Options = new HashSet<Option>();
-        // }
-
         public int ID { get; set; }
         public string FirstName { get; set; }
         public string LastName { get; set; }
@@ -23,8 +19,7 @@ namespace JMLawnServicesAPI.Data.Entities
         public int RequestsMow { get; set; }
         public int RequestsBlow { get; set; }
         public int RequestsEdge { get; set; }
-        public int Cost { get; set; }
+        public int Estimate { get; set; }
         public int AreaInSquareFeet { get; set; }
-
     }
 }

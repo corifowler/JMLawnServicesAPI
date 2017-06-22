@@ -3,11 +3,11 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("JMLawnServicesAPI.WebApi")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("JMLawnServicesAPI.Business")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("Package Description")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("JMLawnServicesAPI.WebApi")]
-[assembly: System.Reflection.AssemblyTitleAttribute("JMLawnServicesAPI.WebApi")]
+[assembly: System.Reflection.AssemblyProductAttribute("JMLawnServicesAPI.Business")]
+[assembly: System.Reflection.AssemblyTitleAttribute("JMLawnServicesAPI.Business")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

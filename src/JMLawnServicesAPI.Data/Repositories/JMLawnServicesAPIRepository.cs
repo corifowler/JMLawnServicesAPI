@@ -4,10 +4,11 @@ using System.Data;
 using JMLawnServicesAPI.Data.Entities;
 using System.Linq;
 using Microsoft.EntityFrameworkCore;
+using JMLawnServicesAPI.Data.DatabaseContexts;
 
-namespace JMLawnServicesAPI.Data
+namespace JMLawnServicesAPI.Data.Repositories
 {
-    class JMLawnServicesAPIRepository : IMatrixServicesApiRepository
+    class JMLawnServicesAPIRepository : IJMLawnServicesAPIRepository
     {
         private JMLawnServicesAPIDbContext _context;
 

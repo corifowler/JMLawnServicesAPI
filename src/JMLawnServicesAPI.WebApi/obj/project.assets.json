@@ -5175,6 +5175,37 @@
         "runtime": {
           "lib/netstandard1.3/Microsoft.WindowsAzure.Storage.dll": {}
         }
+      },
+      "JMLawnServicesAPI.Business/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "JMLawnServicesAPI.Data": "1.0.0",
+          "Microsoft.EntityFrameworkCore.Design": "2.0.0-preview1-final",
+          "Microsoft.EntityFrameworkCore.SqlServer": "2.0.0-preview1-final",
+          "Microsoft.EntityFrameworkCore.Sqlite": "2.0.0-preview1-final"
+        },
+        "compile": {
+          "bin/placeholder/JMLawnServicesAPI.Business.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/JMLawnServicesAPI.Business.dll": {}
+        }
+      },
+      "JMLawnServicesAPI.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore.Design": "2.0.0-preview1-final",
+          "Microsoft.EntityFrameworkCore.SqlServer": "2.0.0-preview1-final",
+          "Microsoft.EntityFrameworkCore.Sqlite": "2.0.0-preview1-final"
+        },
+        "compile": {
+          "bin/placeholder/JMLawnServicesAPI.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/JMLawnServicesAPI.Data.dll": {}
+        }
       }
     }
   },
@@ -12830,11 +12861,26 @@
         "windowsazure.storage.8.1.1.nupkg.sha512",
         "windowsazure.storage.nuspec"
       ]
+    },
+    "JMLawnServicesAPI.Business/1.0.0": {
+      "type": "project",
+      "path": "../JMLawnServicesAPI.Business/JMLawnServicesAPI.Business.csproj",
+      "msbuildProject": "../JMLawnServicesAPI.Business/JMLawnServicesAPI.Business.csproj"
+    },
+    "JMLawnServicesAPI.Data/1.0.0": {
+      "type": "project",
+      "path": "../JMLawnServicesAPI.Data/JMLawnServicesAPI.Data.csproj",
+      "msbuildProject": "../JMLawnServicesAPI.Data/JMLawnServicesAPI.Data.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.0": [
+      "JMLawnServicesAPI.Business >= 1.0.0",
+      "JMLawnServicesAPI.Data >= 1.0.0",
       "Microsoft.AspNetCore.All >= 2.0.0-preview1-final",
+      "Microsoft.EntityFrameworkCore.Design >= 2.0.0-preview1-final",
+      "Microsoft.EntityFrameworkCore.SqlServer >= 2.0.0-preview1-final",
+      "Microsoft.EntityFrameworkCore.Sqlite >= 2.0.0-preview1-final",
       "Microsoft.NETCore.App >= 2.0.0-preview1-002111-00"
     ]
   },
@@ -12854,7 +12900,14 @@
       ],
       "frameworks": {
         "netcoreapp2.0": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\John Monarchik\\Desktop\\Projects\\JMLawnServicesAPI\\src\\JMLawnServicesAPI.Data\\JMLawnServicesAPI.Data.csproj": {
+              "projectPath": "C:\\Users\\John Monarchik\\Desktop\\Projects\\JMLawnServicesAPI\\src\\JMLawnServicesAPI.Data\\JMLawnServicesAPI.Data.csproj"
+            },
+            "C:\\Users\\John Monarchik\\Desktop\\Projects\\JMLawnServicesAPI\\src\\JMLawnServicesAPI.Business\\JMLawnServicesAPI.Business.csproj": {
+              "projectPath": "C:\\Users\\John Monarchik\\Desktop\\Projects\\JMLawnServicesAPI\\src\\JMLawnServicesAPI.Business\\JMLawnServicesAPI.Business.csproj"
+            }
+          }
         }
       }
     },
@@ -12866,6 +12919,18 @@
             "version": "2.0.0-preview1-002111-00"
           },
           "Microsoft.AspNetCore.All": {
+            "target": "Package",
+            "version": "2.0.0-preview1-final"
+          },
+          "Microsoft.EntityFrameworkCore.Design": {
+            "target": "Package",
+            "version": "2.0.0-preview1-final"
+          },
+          "Microsoft.EntityFrameworkCore.SqlServer": {
+            "target": "Package",
+            "version": "2.0.0-preview1-final"
+          },
+          "Microsoft.EntityFrameworkCore.Sqlite": {
             "target": "Package",
             "version": "2.0.0-preview1-final"
           }

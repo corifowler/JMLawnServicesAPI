@@ -1,9 +1,9 @@
 using Microsoft.EntityFrameworkCore;
-using JMLawnServices.API.Data.Entities;
+using JMLawnServicesAPI.Data.Entities;
 
-namespace Matrix.ServicesAPI.Data
+namespace JMLawnServicesAPI.Data.DatabaseContexts
 {
-    public class JMLawnServicesAPIDbContext : DbContext
+    public class JMLawnServicesAPIDbContext  : DbContext
     {
         public DbSet<Estimate> Estimates { get; set; }
 
